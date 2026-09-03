@@ -1,0 +1,50 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Main Emerald Dome -->
+    <path
+        android:fillColor="#0F683D"
+        android:pathData="M48,16 C40,28 28,34 28,54 L68,54 C68,34 56,28 48,16 Z" />
+    <!-- Dome Highlight -->
+    <path
+        android:fillColor="#158A52"
+        android:pathData="M48,16 C44,28 36,34 36,54 L52,54 C54,36 50,26 48,16 Z" />
+    <!-- Crescent on top -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M48,8 C49,8 51,9 51,11 C51,13 49,14 47,14 C47,15 49,16 48,16 C45,15 45,10 48,8 Z" />
+    <!-- Mosque Base & Arches -->
+    <path
+        android:fillColor="#F4F1EA"
+        android:pathData="M24,54 L72,54 L72,84 L24,84 Z" />
+    <!-- Golden trim line -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M22,53 L74,53 L74,56 L22,56 Z" />
+    <!-- Arched Windows / Door -->
+    <path
+        android:fillColor="#0D5C3A"
+        android:pathData="M42,66 C42,60 54,60 54,66 L54,84 L42,84 Z" />
+    <path
+        android:fillColor="#0D5C3A"
+        android:pathData="M28,66 C28,62 36,62 36,66 L36,78 L28,78 Z" />
+    <path
+        android:fillColor="#0D5C3A"
+        android:pathData="M60,66 C60,62 68,62 68,66 L68,78 L60,78 Z" />
+    <!-- Left Minaret -->
+    <path
+        android:fillColor="#E8E4D9"
+        android:pathData="M14,32 L20,32 L22,84 L12,84 Z" />
+    <path
+        android:fillColor="#0F683D"
+        android:pathData="M17,20 C14,24 14,32 14,32 L20,32 C20,32 20,24 17,20 Z" />
+    <!-- Right Minaret -->
+    <path
+        android:fillColor="#E8E4D9"
+        android:pathData="M76,32 L82,32 L84,84 L74,84 Z" />
+    <path
+        android:fillColor="#0F683D"
+        android:pathData="M79,20 C76,24 76,32 76,32 L82,32 C82,32 82,24 79,20 Z" />
+</vector>

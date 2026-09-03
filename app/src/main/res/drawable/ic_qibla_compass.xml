@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Outer Golden Ring -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M48,8 C68,8 84,24 84,48 C84,72 68,88 48,88 C28,88 12,72 12,48 C12,24 28,8 48,8 Z" />
+    <!-- Inner Dark Dial -->
+    <path
+        android:fillColor="#083B25"
+        android:pathData="M48,16 C64,16 76,28 76,48 C76,68 64,80 48,80 C32,80 20,68 20,48 C20,28 32,16 48,16 Z" />
+    <!-- Degree Markers -->
+    <path
+        android:fillColor="#DAA520"
+        android:pathData="M47,18 L49,18 L49,24 L47,24 Z M47,72 L49,72 L49,78 L47,78 Z M18,47 L24,47 L24,49 L18,49 Z M72,47 L78,47 L78,49 L72,49 Z" />
+    <!-- North Needle (Kaaba direction - Emerald & Gold) -->
+    <path
+        android:fillColor="#2E8B57"
+        android:pathData="M48,22 L54,48 L48,44 Z" />
+    <path
+        android:fillColor="#3CB371"
+        android:pathData="M48,22 L42,48 L48,44 Z" />
+    <!-- South Needle -->
+    <path
+        android:fillColor="#B8860B"
+        android:pathData="M48,74 L54,48 L48,52 Z" />
+    <path
+        android:fillColor="#DAA520"
+        android:pathData="M48,74 L42,48 L48,52 Z" />
+    <!-- Center Pivot Gem -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M48,44 C50.2,44 52,45.8 52,48 C52,50.2 50.2,52 48,52 C45.8,52 44,50.2 44,48 C44,45.8 45.8,44 48,44 Z" />
+</vector>

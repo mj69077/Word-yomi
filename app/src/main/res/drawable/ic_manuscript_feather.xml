@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Parchment Scroll Body -->
+    <path android:fillColor="#F7E7C4" android:pathData="M22,24 C22,18 36,18 36,24 L36,74 C36,80 22,80 22,74 Z" />
+    <path android:fillColor="#FFF8DC" android:pathData="M28,20 L68,20 L68,76 L28,76 Z" />
+    <path android:fillColor="#EED9A4" android:pathData="M64,24 C64,18 78,18 78,24 L78,74 C78,80 64,80 64,74 Z" />
+    <!-- Calligraphy Text Lines on Scroll -->
+    <path android:fillColor="#8B5A2B" android:pathData="M34,30 L62,30 L62,32 L34,32 Z M34,38 L58,38 L58,40 L34,40 Z M34,46 L62,46 L62,48 L34,48 Z M34,54 L52,54 L52,56 L34,56 Z" />
+    <!-- Golden Feather Quill leaning across scroll -->
+    <path android:fillColor="#D4AF37" android:pathData="M78,14 C62,28 50,48 42,74 L46,76 C56,52 68,36 82,22 Z" />
+    <path android:fillColor="#8B4513" android:pathData="M42,74 L40,82 L46,76 Z" />
+</vector>

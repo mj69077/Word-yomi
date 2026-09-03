@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Crossed Swords behind shield -->
+    <path android:fillColor="#C0C0C0" android:pathData="M16,16 L80,80 L76,84 L12,20 Z" />
+    <path android:fillColor="#C0C0C0" android:pathData="M80,16 L16,80 L20,84 L84,20 Z" />
+    <path android:fillColor="#DAA520" android:pathData="M14,14 L22,22 L18,26 L10,18 Z M74,14 L82,22 L86,18 L78,10 Z" />
+    <!-- Outer Golden Shield Rim -->
+    <path android:fillColor="#D4AF37" android:pathData="M48,18 C68,18 76,28 76,46 C76,66 58,78 48,84 C38,78 20,66 20,46 C20,28 28,18 48,18 Z" />
+    <!-- Inner Emerald Shield Body -->
+    <path android:fillColor="#0D5C3A" android:pathData="M48,24 C64,24 70,32 70,46 C70,62 56,72 48,78 C40,72 26,62 26,46 C26,32 32,24 48,24 Z" />
+    <!-- Center Crescent & Star Emblem (Ruqyah protection symbol) -->
+    <path android:fillColor="#FFD700" android:pathData="M48,34 C55,34 60,39 60,46 C60,53 55,58 48,58 C43,58 39,55 38,50 C41,52 45,52 48,50 C51,48 53,44 52,40 C50,37 46,35 43,36 C44,35 46,34 48,34 Z" />
+    <path android:fillColor="#FFD700" android:pathData="M44,42 L46,46 L50,46 L47,49 L48,53 L44,50 L40,53 L41,49 L38,46 L42,46 Z" />
+</vector>

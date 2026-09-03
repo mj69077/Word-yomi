@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Fringe at top and bottom -->
+    <path android:fillColor="#DAA520" android:pathData="M24,8 L72,8 L72,12 L24,12 Z M24,84 L72,84 L72,88 L24,88 Z" />
+    <!-- Rug Outer Border -->
+    <path android:fillColor="#8B0000" android:pathData="M24,12 L72,12 L72,84 L24,84 Z" />
+    <!-- Golden Floral Border -->
+    <path android:fillColor="#D4AF37" android:pathData="M28,16 L68,16 L68,80 L28,80 Z" />
+    <!-- Emerald Main Field -->
+    <path android:fillColor="#0D5C3A" android:pathData="M32,20 L64,20 L64,76 L32,76 Z" />
+    <!-- Mihrab Arch inside rug -->
+    <path android:fillColor="#083B25" android:pathData="M36,36 C36,26 48,22 48,22 C48,22 60,26 60,36 L60,70 L36,70 Z" />
+    <!-- Hanging Lamp inside Mihrab -->
+    <path android:fillColor="#FFD700" android:pathData="M48,24 L48,32 M45,32 L51,32 L49,38 L47,38 Z" android:strokeColor="#FFD700" android:strokeWidth="1" />
+</vector>

@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Golden Coin on top entering slot -->
+    <path android:fillColor="#FFD700" android:pathData="M48,12 A8,8 0 1,1 48,28 A8,8 0 1,1 48,12 Z" />
+    <path android:fillColor="#DAA520" android:pathData="M46,16 L50,16 L50,24 L46,24 Z" />
+    <!-- Box Lid -->
+    <path android:fillColor="#704214" android:pathData="M18,34 L78,34 L74,44 L22,44 Z" />
+    <!-- Coin Slot -->
+    <path android:fillColor="#1A0D00" android:pathData="M40,36 L56,36 L56,39 L40,39 Z" />
+    <!-- Emerald Chest Body -->
+    <path android:fillColor="#0E5A35" android:pathData="M22,44 L74,44 L70,82 L26,82 Z" />
+    <!-- Golden Filigree on Chest -->
+    <path android:fillColor="#D4AF37" android:pathData="M22,44 L30,44 L32,82 L26,82 Z M66,44 L74,44 L70,82 L64,82 Z" />
+    <path android:fillColor="#D4AF37" android:pathData="M38,54 L58,54 L58,72 L38,72 Z" />
+    <!-- Arabic Calligraphy "زكاة" / Medallion in center -->
+    <path android:fillColor="#083B25" android:pathData="M42,58 L54,58 L54,68 L42,68 Z" />
+    <path android:fillColor="#FFD700" android:pathData="M46,60 L50,60 L50,66 L46,66 Z" />
+</vector>

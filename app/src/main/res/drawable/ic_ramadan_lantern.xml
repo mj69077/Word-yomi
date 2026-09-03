@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Top Hanging Ring -->
+    <path android:fillColor="#DAA520" android:pathData="M48,6 A6,6 0 1,1 48,18 A6,6 0 1,1 48,6 Z" />
+    <path android:fillColor="#00000000" android:strokeColor="#B8860B" android:strokeWidth="2" android:pathData="M48,6 A6,6 0 1,1 48,18 A6,6 0 1,1 48,6 Z" />
+    <!-- Dome Roof -->
+    <path android:fillColor="#8C6D1F" android:pathData="M34,26 L62,26 L56,18 L40,18 Z" />
+    <path android:fillColor="#B8860B" android:pathData="M30,34 L66,34 L62,26 L34,26 Z" />
+    <!-- Glowing Glass Body -->
+    <path android:fillColor="#FFF4B8" android:pathData="M32,34 L64,34 L58,68 L38,68 Z" />
+    <path android:fillColor="#FFE066" android:pathData="M38,40 L58,40 L54,64 L42,64 Z" />
+    <!-- Inner Flame / Glow -->
+    <path android:fillColor="#FF9900" android:pathData="M48,46 C51,52 52,58 48,62 C44,58 45,52 48,46 Z" />
+    <!-- Metal Casing Frames -->
+    <path android:fillColor="#5C450C" android:pathData="M30,34 L34,34 L40,68 L36,68 Z" />
+    <path android:fillColor="#5C450C" android:pathData="M62,34 L66,34 L60,68 L56,68 Z" />
+    <path android:fillColor="#DAA520" android:pathData="M46,34 L50,34 L50,68 L46,68 Z" />
+    <!-- Lantern Base -->
+    <path android:fillColor="#B8860B" android:pathData="M36,68 L60,68 L64,78 L32,78 Z" />
+    <path android:fillColor="#8C6D1F" android:pathData="M30,78 L66,78 L68,84 L28,84 Z" />
+</vector>

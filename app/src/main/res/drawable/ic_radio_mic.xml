@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Vintage Capsule Mic Head -->
+    <path android:fillColor="#C0C0C0" android:pathData="M38,20 C38,13 58,13 58,20 L58,48 C58,55 38,55 38,48 Z" />
+    <!-- Outer Golden U-Shaped Arm -->
+    <path android:fillColor="#00000000" android:strokeColor="#D4AF37" android:strokeWidth="5" android:pathData="M30,36 C30,62 66,62 66,36" />
+    <!-- Mic Grille Ribs -->
+    <path android:fillColor="#708090" android:pathData="M40,24 L56,24 L56,26 L40,26 Z M40,30 L56,30 L56,32 L40,32 Z M40,36 L56,36 L56,38 L40,38 Z M40,42 L56,42 L56,44 L40,44 Z" />
+    <!-- Emerald accent band -->
+    <path android:fillColor="#0D5C3A" android:pathData="M37,46 L59,46 L59,52 L37,52 Z" />
+    <!-- Stand Neck -->
+    <path android:fillColor="#D4AF37" android:pathData="M46,58 L50,58 L50,74 L46,74 Z" />
+    <!-- Round Heavy Base -->
+    <path android:fillColor="#8C6D1F" android:pathData="M30,78 C30,74 66,74 66,78 L68,84 L28,84 Z" />
+    <path android:fillColor="#D4AF37" android:pathData="M34,76 C34,74 62,74 62,76 L64,78 L32,78 Z" />
+</vector>

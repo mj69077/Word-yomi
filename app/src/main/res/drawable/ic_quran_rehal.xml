@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Rehal wooden stand -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M16,72 L48,48 L80,72 L72,80 L48,58 L24,80 Z" />
+    <path
+        android:fillColor="#5C2E0B"
+        android:pathData="M24,80 L48,58 L72,80 L68,84 L48,64 L28,84 Z" />
+    <!-- Quran Book Open -->
+    <path
+        android:fillColor="#0E5A35"
+        android:pathData="M14,40 C28,34 44,38 48,46 C52,38 68,34 82,40 L84,54 C70,48 54,52 48,60 C42,52 26,48 12,54 Z" />
+    <!-- Book Pages Gold/Parchment -->
+    <path
+        android:fillColor="#FFFDD0"
+        android:pathData="M16,38 C28,32 44,36 48,44 C52,36 68,32 80,38 L78,50 C66,44 52,48 48,56 C44,48 30,44 18,50 Z" />
+    <!-- Golden Cover Accents -->
+    <path
+        android:fillColor="#DAA520"
+        android:pathData="M46,42 L50,42 L50,56 L46,56 Z" />
+    <!-- Center Medalion -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M30,42 C32,40 34,42 34,44 C34,46 32,48 30,46 C28,48 26,46 26,44 C26,42 28,40 30,42 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M66,42 C68,40 70,42 70,44 C70,46 68,48 66,46 C64,48 62,46 62,44 C62,42 64,40 66,42 Z" />
+</vector>

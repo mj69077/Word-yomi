@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Golden Outer Crescent -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M52,12 C72,14 86,30 86,50 C86,72 68,88 46,88 C32,88 20,80 14,68 C24,76 38,78 50,74 C66,68 76,52 72,36 C70,26 62,18 52,12 Z" />
+    <!-- Emerald Inset in Crescent -->
+    <path
+        android:fillColor="#0E5A35"
+        android:pathData="M50,18 C66,22 76,34 76,50 C76,66 64,78 48,80 C36,80 26,74 20,66 C28,72 40,72 48,68 C60,62 68,50 66,36 C64,28 58,22 50,18 Z" />
+    <!-- 8-pointed Islamic Star -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M42,28 L46,34 L54,34 L48,39 L51,47 L42,42 L33,47 L36,39 L30,34 L38,34 Z" />
+    <path
+        android:fillColor="#083B25"
+        android:pathData="M42,34 A5,5 0 1,1 42,44 A5,5 0 1,1 42,34 Z" />
+</vector>

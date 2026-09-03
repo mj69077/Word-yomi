@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Kaaba Cube Base & Shadow -->
+    <path android:fillColor="#151515" android:pathData="M18,34 L52,24 L82,34 L82,78 L48,88 L18,78 Z" />
+    <!-- Left Cube Face -->
+    <path android:fillColor="#222222" android:pathData="M18,34 L48,44 L48,88 L18,78 Z" />
+    <!-- Right Cube Face -->
+    <path android:fillColor="#111111" android:pathData="M48,44 L82,34 L82,78 L48,88 Z" />
+    <!-- Kiswah Golden Belt (Hizam) Left -->
+    <path android:fillColor="#D4AF37" android:pathData="M18,44 L48,54 L48,59 L18,49 Z" />
+    <!-- Kiswah Golden Belt (Hizam) Right -->
+    <path android:fillColor="#B8860B" android:pathData="M48,54 L82,44 L82,49 L48,59 Z" />
+    <!-- Door of the Kaaba (Bab Al-Kaaba) in Gold -->
+    <path android:fillColor="#FFD700" android:pathData="M32,54 L44,58 L44,78 L32,74 Z" />
+    <!-- Door Calligraphy Details -->
+    <path android:fillColor="#8B7500" android:pathData="M34,57 L42,60 L42,65 L34,62 Z M34,67 L42,70 L42,75 L34,72 Z" />
+    <!-- Golden Spout (Meezab Al-Rahmah) -->
+    <path android:fillColor="#FFD700" android:pathData="M64,37 L70,39 L68,42 L62,40 Z" />
+    <!-- White Marble Base (Shadharwan) -->
+    <path android:fillColor="#EAEAEA" android:pathData="M16,77 L48,88 L48,91 L16,80 Z" />
+    <path android:fillColor="#CCCCCC" android:pathData="M48,88 L84,77 L84,80 L48,91 Z" />
+</vector>
